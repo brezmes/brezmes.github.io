@@ -88,41 +88,100 @@ content:
 
             The main technologies that we work with our customers are:
             AWS, Kubernetes, Python, Cloud Security, DevSecOps, Big Data, Machine Learning.
+
+      - layout: left
+        title: Universitat de Lleida, NextIBS
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: September 2019 - December 2019
+        description: | # this will include new lines to allow paragraphs
+            Cloud Security Masterclass at “Máster in Cybersecurity”
+
+      - layout: left
+        title: Universidad Europea de Madrid, UEM
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Co-author
+        caption: February 2018 - July 2019
+        description: | # this will include new lines to allow paragraphs
+            Co-author for Cloud Security at “Máster Universitario de Cloud Computing Online”
+
+      - layout: left
+        title: BBVA Next Technologies
+        link: www.bbvanexttechnologies.com
+        link_text: bbvanexttechnologies.com
+        sub_title: Business Manager | Head of Global DevOps | Labs Adviser
+        caption: September 2016 - February 2020
+        description: | # this will include new lines to allow paragraphs
+            **Business Manager. Security Specialist.** Account Manager for security services accounts, multi-cloud projects, and the SaaS platform on which the services are offered. Management of a four people team to offer hacking services, risk analysis, cloud and development tools.
             
+            Technologies: AWS, GCP, Azure, EKS
+
+
+            **Head of Global DevOps**. BBVA Security Architecture. Design a common platform for all products on Security Architecture area, to design a common model for deployments and the
+            integration tools to help product teams do devops philosophy. “Ops as Product”. Management of a team with eight people in Spain and support of two in Mexico. Governance of AWS accounts where all environments are running.
+            Labs Adviser, I4S squad Innovation Board member. Connector of production requirements and innovation, to define new solutions for cloud environments security problems.
+            
+            Technologies: AWS, Openstack, Terraform, Ansible, Scrum-Kanban, Kubernetes, Graylog, Kafka.
+
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Ventura24, Zeal Group
+        sub_title: Enterprise Cloud Strategy Member | Platform Transformation Technical Lead
+        caption: September 2015 - September 2016
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            **Enterprise Cloud Strategy Member**. Design of new cloud with Rackspace Openstack Solution as provider, where all products (Zeal Group) will be running, main requirement is a scalable architecture with “jackpot as a service” focus.
+            
+            Technologies: Rackspace, Openstack, Ansible, Docker, Mesos, Marathon, DC/OS
+
+
+            **Platform Transformation Technical Lead**. Common pipeline of CI / CD design and deploy for all products of the company, container orchestration and microservices based..
+
+            Technologies: Jenkins, Spring Boot, Ansible, Docker
+
+
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: i4s, BBVA
+        sub_title: Lead DevSecOps | Cloud Solutions Architect | Systems Integrator and ScrumMaster | Head of Technical Systems
+        caption: February 2014 - September 2015
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            **Lead SecDevOps, Cloud Solutions Architect**, I4S. Responsible of the management and administration of enterprise cloud with 8 Virtual Private Clouds, and around 100 virtual machines. Automation in the administration and securitization. Design and deployment of VPCs, and related projects. Deploy and management a Forge for software development.
+            
+            Technologies: AWS, puppet, chef, ansible, terraform.
+
+
+            **System integrator and ScrumMaster**, Digital Bank, BBVA. Design and development a tool for automatic security analysis of infrastructure and code.
+
+            Technologies: AWS, Fortify, SonarQube, Jenkins, GitLab, Atlassian, Taiga, Puppet, Python, Bash.
+
+
+            **Head of Technical Systems**, Logical Security, IT Risk, Fraud & Security, BBVA. Technical Systems team management, administration, automation and optimization of physical and virtual infrastructure of the department with approximately 350 virtual machines and 75 physical. Support to developers.
+
+            Technologies: HP Blade, HP Enclosure, HP Virtual Connect, NetApp, VMware Suite, Nagios, GitLab, Atlassian, Taiga, Puppet, Python, Bash, Scrum, Kanban
+
+      - layout: left
+        title: Creania Labs SL
+        sub_title: DevOps
+        caption: February 2013 - January 2014
+        description: | # this will include new lines to allow paragraphs
+            **DevOps**. Researching on mobile technologies and cloud. Design and implementation of systems for live streaming and transcoding by HLS and HDS protocols. Design and implementation of scalable architectures in cloud. Customer contact and service providers such as Amazon Web Services. Design, implementation and management of a Forge with support for software development with GIT, Redmine, Jenkins, Chef.
+            Production projects: 
+            - [MegaStarFM](www.megastar.fm){:target="_blank"}
+            - [Tecnopasion](www.tecnopasion.com){:target="_blank"}
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Universidad Politécnica de Madrid (UPM)
+        caption: 2009 - 2015
+        sub_title: Computers Engineer Degree
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          I studied it, but I didn't finish it
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at "Escuela Técnica Superior de Ingeniería de Sistemas Informáticos" I learned a lot about how to structure the problems to be solved, and some basic knowledge about the technology, but it was not until I started working that I was able to develop my skills.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a Students Representation member of the *Universidad Politécnica de Madrid* taking on roles such as *School Students President* and *Secretary*.
 
   - title: A Little More About Me
     layout: text
