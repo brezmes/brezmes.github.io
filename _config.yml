@@ -53,6 +53,15 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark>,  <mark>Music</mark>  and  <mark>Sports</mark>
 
 content:
+  - title: Latest Confs & others # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - Pannel Session Horizon Cloud Summit 2020 (https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20)
+      - Participation in table on Hybrid Cloud Security, for GlobbTV (http://live.globbtv.com/vod-sesion-especial-hybrid-cloud-security-20-de-septiembre-de-2018)
+      - Participation in table on 'The Evolution of DDoS Threats and the Zero Trust Model' for ComputerWorld / Cloudflare (https://www.computerworld.es/pubs/cw1360/index.html?page=137)
+      - Participation in the CybersecForum (https://www.youtube.com/watch?v=wkuHmQefpsQ&t=25s)
+      - AWS Madrid Summit. Security in your business. (https://www.youtube.com/watch?v=egchpZt5ywE)
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
