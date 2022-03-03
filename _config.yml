@@ -56,15 +56,29 @@ about_content: | # this will include new lines to allow paragraphs
 
  I am most skilled in: <mark>AWS</mark>,  <mark>Music</mark>  and  <mark>Sports</mark>
 
+ > _There is nothing impossible if you love what you do and I love it_
+
 content:
   - title: Latest Confs & Others # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      **Confs:**
       - [Pannel Session Horizon Cloud Summit 2020](https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20){:target="_blank"}
       - [Participation in table on Hybrid Cloud Security, for GlobbTV](http://live.globbtv.com/vod-sesion-especial-hybrid-cloud-security-20-de-septiembre-de-2018){:target="_blank"}
       - [Participation in table on 'The Evolution of DDoS Threats and the Zero Trust Model' for ComputerWorld / Cloudflare](https://www.computerworld.es/pubs/cw1360/index.html?page=137){:target="_blank"}
       - [Participation in the CybersecForum](https://www.youtube.com/watch?v=wkuHmQefpsQ&t=25s){:target="_blank"}
       - [AWS Madrid Summit. Security in your business.](https://www.youtube.com/watch?v=egchpZt5ywE){:target="_blank"}
+
+      **Certifications & Courses:**
+      - PowerMBA (January 2021)
+      - AWS Security Engineering (July 2020)
+      - AWS Advanced Architecting (June 2020)
+      - AWS Certified Solutions Architect - Associate (June 2018) 
+      - Systems Operations on AWS (February 2015)
+      - M102: MongoDB for DBAs (April 2014)
+      - M101P: MongoDB for Developers (March 2014)
+      - AWS Essentials (July 2013)
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
