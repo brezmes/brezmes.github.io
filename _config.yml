@@ -48,9 +48,13 @@ linkedin_username: alberto-brezmes
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name's Alberto I'm passionate about technology, and in particular everything related to the cloud world and security. I have experience in the design of highly scalable systems (Cloud Architect), security in software development (DevSecOps), and big data analysis systems, and systems based on artificial intelligence. I have worked from small startups to large banks and for numerous IBEX35 companies. On the management perspective, I'm able to design and execute business and strategic plans, recruit and retain talent, and build ownership and brand.
+ Hi, my name's Alberto I'm passionate about technology, and in particular everything related to the cloud world and security. I have experience in the design of highly scalable systems (<mark>Cloud Architect</mark>), security in software development (<mark>DevSecOps</mark>), and <mark>Big Data</mark> analysis systems, and systems based on artificial intelligence (<mark>AI</mark>). 
+ 
+ I have worked from small startups to large banks and for numerous IBEX35 companies. 
+ 
+ On the management perspective, I'm able to design and execute business and strategic plans, recruit and retain talent, and build ownership and brand.
 
-  I am most skilled in: <mark>AWS</mark>,  <mark>Music</mark>  and  <mark>Sports</mark>
+ I am most skilled in: <mark>AWS</mark>,  <mark>Music</mark>  and  <mark>Sports</mark>
 
 content:
   - title: Latest Confs & Others # Title for the section
