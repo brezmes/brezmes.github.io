@@ -63,6 +63,7 @@ content:
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       **Confs:**
+      - [**NEXT CONF.IT!! 2022-04-07 16:00 - 17:00** "Dulce introducción al Cloud (Chaos) Security"](https://confit.es/ponencias/introduccion-cloud/)
       - [Pannel Session Horizon Cloud Summit 2020](https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20){:target="_blank"}
       - [Participation in table on Hybrid Cloud Security, for GlobbTV](http://live.globbtv.com/vod-sesion-especial-hybrid-cloud-security-20-de-septiembre-de-2018){:target="_blank"}
       - [Participation in table on 'The Evolution of DDoS Threats and the Zero Trust Model' for ComputerWorld / Cloudflare](https://www.computerworld.es/pubs/cw1360/index.html?page=137){:target="_blank"}
