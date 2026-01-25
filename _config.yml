@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
  
  Currently leading cloud architecture and cloud enablement engine at <mark>Iberia Airlines</mark>, one of Europe's largest carriers, managing critical infrastructure serving millions of passengers annually. Previously architected security and cloud platforms at <mark>BBVA</mark> and <mark>Inetum</mark>, working with IBEX35 companies and global enterprises.
  
- Core Expertise: <mark>Cloud Strategy & Architecture</mark> .. <mark>Security & DevSecOps</mark> .. <mark>Team Leadership & Talent Development</mark> .. <mark>Digital Transformation</mark> .. <mark>P&L Management</mark> .. <mark>Vendor & Partner Management</mark>
+ Core Expertise: <mark>Cloud Strategy & Architecture</mark> <mark>Security & DevSecOps</mark> <mark>Team Leadership & Talent Development</mark> <mark>Digital Transformation</mark> <mark>P&L Management</mark> <mark>Vendor & Partner Management</mark>
 
- Technical Stack: <mark>AWS</mark> .. <mark>Multi-Cloud</mark> .. <mark>Kubernetes</mark> .. <mark>Infrastructure as Code</mark>
+ Technical Stack: <mark>AWS</mark> <mark>Multi-Cloud</mark> <mark>Kubernetes</mark> <mark>Infrastructure as Code</mark>
 
  > _Driving business value through technology innovation and operational excellence_
 
@@ -76,13 +76,13 @@ content:
       - Vendor & Partner Management (AWS, Microsoft, Google)
       - Product Transformation & DevOps Culture
       
-      **Industry Experience:** Airlines & Travel | Banking & Financial Services | Technology Consulting | Startups
+      **Industry Experience:** Airlines & Travel  Banking & Financial Services  Technology Consulting  Startups
 
   - title: Speaking & Thought Leadership # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       **Conference Speaking & Panels:**
-      - [AWS TechTrack: Building a Robust Cloud Operating Model & Transforming Operations with AI | MAD](https://aws-experience.com/emea/iberia/e/9d613/techtrack--building-a-robust-cloud-operating-model--transforming-operations-with-ai){:target="_blank"}
+      - [AWS TechTrack: Building a Robust Cloud Operating Model & Transforming Operations with AI - MAD](https://aws-experience.com/emea/iberia/e/9d613/techtrack--building-a-robust-cloud-operating-model--transforming-operations-with-ai){:target="_blank"}
       - [AWS Summit Madrid 2025 - Cloud Operating Model](https://www.linkedin.com/posts/alberto-brezmes_awssummitmadrid-aws-cloud-activity-7338063622172020736-k3BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA51MgABfgCKJggdG-v70Es6RKO_bhD05Qg){:target="_blank"}
       - [Cloud 23 IDC Foundry - Round Table](https://www.linkedin.com/posts/alberto-brezmes_cloud23idcfoundry-cloud-tech-activity-7064547623864590336-q7We?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA51MgABfgCKJggdG-v70Es6RKO_bhD05Qg){:target="_blank"}
       - [Panel Session Horizon Cloud Summit 2020](https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20){:target="_blank"}
@@ -110,7 +110,7 @@ content:
         title: Iberia Airlines (IAG Group)
         link: iberia.com
         sub_title: Principal Cloud Architect | Cloud Enablement Engine Lead
-        caption: 2022 - Present
+        caption: May 2022 - Present
         quote: >
           Leading cloud transformation and strategy for one of Europe's largest airlines, managing infrastructure serving 30M+ passengers annually
         description: | # this will include new lines to allow paragraphs            
