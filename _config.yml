@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Alberto Brezmes
-title: Head of Security Processes & Advanced Architectures
+title: Cloud Technology Executive | Head of Cloud
 # email: name@example.com
 website: https://brezmes.github.io/ 
 
@@ -48,47 +48,97 @@ linkedin_username: alberto-brezmes
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name's Alberto, I'm passionate about technology, and in particular everything related to the cloud world and security. I have experience in the design of highly scalable systems (<mark>Cloud Architect</mark>), security in software development (<mark>DevSecOps</mark>), <mark>Big Data</mark> analysis systems, and systems based on artificial intelligence (<mark>AI</mark>). 
+ Technology executive with 12+ years of experience leading cloud transformation, security strategy, and digital innovation across enterprise organizations. Proven track record building and scaling high-performing engineering teams, driving complex cloud migrations, and delivering strategic technology initiatives that align with business objectives.
  
- I have worked from small startups to large banks and for numerous IBEX35 companies. 
+ Currently leading cloud architecture and cloud enablement engine at <mark>Iberia Airlines</mark>, one of Europe's largest carriers, managing critical infrastructure serving millions of passengers annually. Previously architected security and cloud platforms at <mark>BBVA</mark> and <mark>Inetum</mark>, working with IBEX35 companies and global enterprises.
  
- On the management perspective, I'm able to design and execute business and strategic plans, recruit and retain talent, and build ownership and brand.
+ **Core Expertise:** <mark>Cloud Strategy & Architecture</mark> | <mark>Security & DevSecOps</mark> | <mark>Team Leadership & Talent Development</mark> | <mark>Digital Transformation</mark> | <mark>P&L Management</mark> | <mark>Vendor & Partner Management</mark>
 
- I am most skilled in: <mark>AWS</mark>,  <mark>Music</mark>  and  <mark>Sports</mark>
+ **Technical Stack:** <mark>AWS</mark> | <mark>Multi-Cloud (Azure, GCP)</mark> | <mark>Kubernetes</mark> | <mark>Infrastructure as Code</mark>
 
- > _There is nothing impossible if you love what you do and I love it_
+ > _Driving business value through technology innovation and operational excellence_
 
 content:
-  - title: Latest Confs & Others # Title for the section
+  - title: Executive Summary # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      **Confs:**
-      - [CONF.IT 2022 "Dulce introducción al Cloud (Chaos) Security"](https://confit.es/ponencias/introduccion-cloud/){:target="_blank"} - [Slides](slides/20220407DulceintroduccionalCloudChaosSecurity.pdf){:target="_blank"}
-      - [Pannel Session Horizon Cloud Summit 2020](https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20){:target="_blank"}
-      - [Participation in table on Hybrid Cloud Security, for GlobbTV](http://live.globbtv.com/vod-sesion-especial-hybrid-cloud-security-20-de-septiembre-de-2018){:target="_blank"}
-      - [Participation in table on 'The Evolution of DDoS Threats and the Zero Trust Model' for ComputerWorld / Cloudflare](https://www.computerworld.es/pubs/cw1360/index.html?page=137){:target="_blank"}
-      - [Participation in the CybersecForum](https://www.youtube.com/watch?v=wkuHmQefpsQ&t=25s){:target="_blank"}
-      - [AWS Madrid Summit. Security in your business.](https://www.youtube.com/watch?v=egchpZt5ywE){:target="_blank"}
+      **Leadership Impact:**
+      - 12+ years leading technology teams in cloud architecture, security, and digital transformation
+      - Managed teams of up to [X] engineers across multiple geographies and disciplines
+      - Delivered [€XM+] in cost savings through cloud optimization and strategic vendor management
+      - Led cloud migrations for mission-critical systems serving [XM+] users/transactions
+      
+      **Strategic Capabilities:**
+      - Cloud Strategy & Multi-Cloud Architecture (AWS, Azure, GCP)
+      - Enterprise Security & Compliance (ISO 27001, PCI-DSS, GDPR, NIS2)
+      - Digital Transformation & Innovation (Product Adoption, AI/ML, AIOps)
+      - P&L Management & Budget Optimization (FinOps)
+      - Vendor & Partner Management (AWS, Microsoft, Google)
+      - Product Transformation & DevOps Culture
+      
+      **Industry Experience:** Airlines & Travel | Banking & Financial Services | Technology Consulting | Startups
 
-      **Certifications & Courses:**
-      - PowerMBA (January 2021)
+  - title: Speaking & Thought Leadership # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      **Conference Speaking & Panels:**
+      - [AWS TechTrack: Building a Robust Cloud Operating Model & Transforming Operations with AI | MAD](https://aws-experience.com/emea/iberia/e/9d613/techtrack--building-a-robust-cloud-operating-model--transforming-operations-with-ai){:target="_blank"}
+      - [AWS Summit Madrid 2025 - Cloud Operating Model](https://www.linkedin.com/posts/alberto-brezmes_awssummitmadrid-aws-cloud-activity-7338063622172020736-k3BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA51MgABfgCKJggdG-v70Es6RKO_bhD05Qg){:target="_blank"}
+      - [Cloud 23 IDC Foundry - Round Table](https://www.linkedin.com/posts/alberto-brezmes_cloud23idcfoundry-cloud-tech-activity-7064547623864590336-q7We?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA51MgABfgCKJggdG-v70Es6RKO_bhD05Qg){:target="_blank"}
+      - [Panel Session Horizon Cloud Summit 2020](https://twitter.com/HCLOUD_Project/status/1331200905832697856?s=20){:target="_blank"}
+      - [Hybrid Cloud Security Panel for GlobbTV](http://live.globbtv.com/vod-sesion-especial-hybrid-cloud-security-20-de-septiembre-de-2018){:target="_blank"}
+      - [DDoS Threats and Zero Trust Model - ComputerWorld/Cloudflare](https://www.computerworld.es/pubs/cw1360/index.html?page=137){:target="_blank"}
+      - [CybersecForum Participation](https://www.youtube.com/watch?v=wkuHmQefpsQ&t=25s){:target="_blank"}
+      - [AWS Madrid Summit - Security in Business](https://www.youtube.com/watch?v=egchpZt5ywE){:target="_blank"}
+
+      **Academic Contributions:**
+      - Strategic Cybersecurity Expert Certification - Sagardoy School (2026)
+      - Cloud Security Masterclass - Máster in Cybersecurity, Universitat de Lleida (2019)
+      - Co-author - Cloud Security, Máster Universitario de Cloud Computing, UEM (2018-2019)
+
+      **Certifications & Executive Education:**
+      - PowerMBA - Business Strategy & Leadership (January 2021)
       - AWS Security Engineering (July 2020)
       - AWS Advanced Architecting (June 2020)
-      - AWS Certified Solutions Architect - Associate (June 2018) 
-      - Systems Operations on AWS (February 2015)
-      - M102: MongoDB for DBAs (April 2014)
-      - M101P: MongoDB for Developers (March 2014)
-      - AWS Essentials (July 2013)
+      - AWS Certified Solutions Architect - Associate (June 2018)
 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Iberia Airlines (IAG Group)
+        link: iberia.com
+        sub_title: Principal Cloud Architect | Cloud Enablement Engine Lead
+        caption: 2022 - Present
+        quote: >
+          Leading cloud transformation and strategy for one of Europe's largest airlines, managing infrastructure serving 30M+ passengers annually
+        description: | # this will include new lines to allow paragraphs            
+            **Strategic Leadership & Business Impact:**
+            - Led cloud migration strategy, closing data center in 3 years
+            - Built and managed team of cloud engineers and specialists across multiple locations
+            - Managed annual cloud infrastructure budget with >20% cost optimization year-over-year
+            - Cloud Governance & Strategy Committee Owner with direct reporting to CIO/CFO, presenting quarterly technology roadmaps to executive board
+            
+            **Technical Achievements:**
+            - Designed and implemented cloud strategy for mission-critical booking and operations systems
+            - Established enterprise-wide landing zone
+            
+            **Key Projects:**
+            - Migration of legacy systems to cloud-native architecture
+            - Implementation of zero-trust security model across Enterprise Landing Zone
+            
+            **Technologies:** AWS, Azure, Kubernetes, Terraform, Python, DevSecOps, AI/ML, Microservices
+            
+            **Team & Culture:**
+            - Recruited and mentored engineers
+            - Established agile practices and DevOps culture, reducing deployment time from weeks to hours
+
+      - layout: left
         title: Inetum
         link: inetum.com
         sub_title: Head of Security Processes and Advanced Architectures
-        caption: February 2020 - Present
+        caption: February 2020 - May 2022
         quote: >
           I came to Inetum, formerly Gfi, with the objective of being one of the 3 founders of a new security company, focused on strategic and technological consulting, and the development of cybersecurity products, in my case, within the field of cloud security.
         description: | # this will include new lines to allow paragraphs
@@ -190,26 +240,22 @@ content:
       - layout: left
         title: Universidad Politécnica de Madrid (UPM)
         caption: 2009 - 2015
-        sub_title: Computers Engineer Degree
-        quote: >
-          I studied it, but I didn't finish it
+        sub_title: Computer Engineering Studies
         description: | # this will include new lines to allow paragraphs
-          During my time at "Escuela Técnica Superior de Ingeniería de Sistemas Informáticos" I learned a lot about how to structure the problems to be solved, and some basic knowledge about the technology, but it was not until I started working that I was able to develop my skills.
+          Studied at Escuela Técnica Superior de Ingeniería de Sistemas Informáticos, focusing on systems architecture, software engineering, and distributed systems.
 
-          I spent a lot of my free time as a Students Representation member of the *Universidad Politécnica de Madrid* taking on roles such as *School Students President* and *Secretary*.
+          Active in student leadership as School Students President and Secretary of the Universidad Politécnica de Madrid student representation.
 
-  - title: A Little More About Me
+  - title: Beyond Technology
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in cloud computing and security, some of my other interests and hobbies are:
+      Leadership philosophy: Building high-performing teams through trust, continuous learning, and empowerment. Passionate about mentoring next-generation technology leaders and fostering innovation cultures.
+      
+      Personal interests that drive balance and perspective:
       - Family & Friends
-      - Running
-      - Cooking
-      - Mountain Sports
-      - Gaming
-
-      Look at this cool image  
-      ![Trees](images/landscape.jpeg "Roque Nublo")
+      - Running & Mountain Sports
+      - Continuous Learning
+      - Travel & Cultural Experiences
 
 # Footer
 footer_show_references: true
