@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
  
  Currently leading cloud architecture and cloud enablement engine at <mark>Iberia Airlines</mark>, one of Europe's largest carriers, managing critical infrastructure serving millions of passengers annually. Previously architected security and cloud platforms at <mark>BBVA</mark> and <mark>Inetum</mark>, working with IBEX35 companies and global enterprises.
  
- Core Expertise: <mark>Cloud Strategy & Architecture</mark> | <mark>Security & DevSecOps</mark> | <mark>Team Leadership & Talent Development</mark> | <mark>Digital Transformation</mark> | <mark>P&L Management</mark> | <mark>Vendor & Partner Management</mark>
+ Core Expertise: <mark>Cloud Strategy & Architecture</mark> .. <mark>Security & DevSecOps</mark> .. <mark>Team Leadership & Talent Development</mark> .. <mark>Digital Transformation</mark> .. <mark>P&L Management</mark> .. <mark>Vendor & Partner Management</mark>
 
- Technical Stack: <mark>AWS</mark> | <mark>Multi-Cloud (Azure, GCP)</mark> | <mark>Kubernetes</mark> | <mark>Infrastructure as Code</mark>
+ Technical Stack: <mark>AWS</mark> .. <mark>Multi-Cloud</mark> .. <mark>Kubernetes</mark> .. <mark>Infrastructure as Code</mark>
 
  > _Driving business value through technology innovation and operational excellence_
 
